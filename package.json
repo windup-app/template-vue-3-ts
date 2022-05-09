@@ -1,0 +1,50 @@
+{
+	"name": "WindUp-Vue3-TypeScript-Template",
+	"version": "1.0.0",
+	"description": "WindUp Vue 3 Template for TypeScript",
+	"homepage": "http://localhost:3000",
+	"url": "https://github.com/WindUp-CLI/WindUp/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WindUp-CLI/WindUp"
+	},
+	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"WindUp",
+		"Vue",
+		"Vuejs",
+		"Vue 3",
+		"JavaScript",
+		"TypeScript",
+		"PWA",
+		"Template"
+	],
+	"author": "WindUP, tranding name under Clockwork Studios LTD <info@cws.ltd> (https://cws.ltd)",
+	"license": {
+		"type": "MIT",
+		"url": "/MIT-License.txt"
+	},
+	"scripts": {
+		"dev": "vite --host",
+		"build": "vite build"
+	},
+	"dependencies": {
+		"vue": "^3.2.25",
+		"vue-router": "^4.0.0-0",
+		"vuex": "^4.0.0-0"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^2.2.0",
+		"sass-loader": "^7.2.0",
+		"sass": "^1.22.10",
+		"typescript": "^4.5.4",
+		"vite": "^2.8.0",
+		"vue-tsc": "^0.29.8"
+	}
+}
