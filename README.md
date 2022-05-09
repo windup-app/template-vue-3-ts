@@ -75,4 +75,4 @@ $ windup
 
 ## Releases
 
-Detailed changes for each release are documented in the [release notes](htttps://github.com/).
+Detailed changes for each release are documented in the [release notes](https://github.com/windup-app/template-vue-3-typescript/releases).
